@@ -1,0 +1,20 @@
+p {
+    background-color: #eeea0c;
+    color: black;
+    text-align: center/left;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: inherit;
+    border: 5px
+    border-radius: 15px;
+}
+body { background-color: lemonchiffon;}
+h1 { color: #eeea0c;} 
+.contact-container {
+     text-align: end/left;
+    background-color: rgb(169, 138, 25);}
+
+
+.info-container{
+    font-size: 20px;
+}
